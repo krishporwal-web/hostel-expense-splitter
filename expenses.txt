@@ -1,0 +1,15 @@
+Hostel Expense Splitter Report
+--------------------------------
+
+Expense History:
+kri - food - ₹444.0 - 30-05-2026
+naveen - travel - ₹567.0 - 30-05-2026
+shubham - rent - ₹11000.0 - 30-05-2026
+
+Total Expense: ₹12011.0
+Each Person Share: ₹4003.6666666666665
+
+Final Balance:
+kri should pay ₹3559.67
+naveen should pay ₹3436.67
+shubham should receive ₹6996.33
